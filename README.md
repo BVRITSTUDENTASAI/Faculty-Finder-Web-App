@@ -1,11 +1,18 @@
+# Faculty Finder Web App
 
-  # Faculty Finder Web App
+This is a code bundle for Faculty Finder Web App. The original project is available at:
+https://www.figma.com/design/e9cVW6sj2fyY0jim2dO3N8/Faculty-Finder-Web-App
 
-  This is a code bundle for Faculty Finder Web App. The original project is available at https://www.figma.com/design/e9cVW6sj2fyY0jim2dO3N8/Faculty-Finder-Web-App.
+## Running the code
 
-  ## Running the code
+1. Install dependencies:
 
-  Run `npm i` to install the dependencies.
+```bash
+npm install
+```
 
-  Run `npm run dev` to start the development server.
-  
+2. Start the development server:
+
+```bash
+npm run dev
+```
